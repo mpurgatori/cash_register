@@ -1,0 +1,15 @@
+{
+  "name": "mike_purgatori_cash_register",
+  "version": "1.0.0",
+  "description": "Code challenege for FastModel Sports",
+  "main": "register.js",
+  "scripts": {
+    "test": "mocha ./test/register_spec.js"
+  },
+  "author": "Mike Purgatori",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}

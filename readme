@@ -1,0 +1,11 @@
+
+Thanks for reviewing my submission for this challenge. The pertinent code can be found in register.js. I tried to be as detailed with the code and comments as possible.
+
+The only dependencies in this submission are Mocha and Chai for testing. For this submission I opted to write tests as opposed to a command line interface. Simply call 'npm test' in the main directory to run it.
+
+If there are any questions please feel free to contact me. I look forward to discussing the role with you further.
+
+Thanks,
+Mike Purgatori
+mpurgatori@gmail.com
+810-560-0087
